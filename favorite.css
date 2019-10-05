@@ -1,0 +1,873 @@
+
+     <!doctype html>
+     <html lang="en" xmlns="http://www.w3.org/1999/html">
+       <head>
+         <!-- Required meta tags -->
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/style/master/style.css">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/singel/master/singel.css">
+    <!--   <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/home.css/master/home-responsive.css">-->
+         <!-- Bootstrap CSS -->
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/bootstrap/master/bootstrab.css">
+         <link rel="stylesheet" href=" https://raw.githack.com/sheymaeida/bootstrap.min/master/bootstrap.min.css">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/magnefic-popop/master/magnific-popup">
+           <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/icomon-style/master/icomon-style.css">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/jquery-ui/master/jquery-ui.css">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/owl.carousel.min/master/owl.carousel.min.css">
+         <link rel="stylesheet" href="https://raw.githack.com/sheymaeida/owl.theme.default.min/master/owl.theme.default.min.css">
+         <link href="https://fonts.googleapis.com/css?family=Rubik:400,700" rel="stylesheet">
+         <link rel="stylesheet" href="fonts/icomoon/style.css">
+         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTfmhCaXp0ML5">
+               <!-- Bootstrap CSS -->
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/bootstrap.min.css"/>
+<link href="https://raw.githack.com/mhdabdullatif/ana/master/fontawesome5.0.1-all.css" rel="stylesheet" type="text/css %}" />
+	<link rel="stylesheet" href="https://raw.githack.com/mhdabdullatif/ana/master/font4.0.1-awesome.css"/>
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/slick.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/jquery-ui.css">
+               <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+               <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+               <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+               <link rel="stylesheet" type="text/css" href="css/bootstrap4/bootstrap.min.css">
+               <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+               <link rel="stylesheet" href="css/font-awesome.min.css"/>
+               <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+               <link rel="stylesheet" type="text/css" href="plugins/slick-1.8.0/slick.css">
+           <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTfmhCaXp0ML5">
+               <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+               <link href="https://fonts.googleapis.com/css?family=Aguafina+Script|Allura|Amatic+SC|Bad+Script|Barriecito|Caveat|Cookie|Damion|Dancing+Script|Fredoka+One|Homemade+Apple|Indie+Flower|Just+Another+Hand|Kalam|Kaushan+Script|Marck+Script|Monoton|Mr+Dafoe|Pacifico|Parisienne|Permanent+Marker|Playball|Press+Start+2P|Ruge+Boogie|Sacramento|Satisfy|Shadows+Into+Light|Tangerine|Yellowtail&display=swap" rel="stylesheet">
+
+               <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTfmhCaXp0ML5">
+               <title>Hello, world!</title>
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/bootstrap.min.css"/>
+<link href="https://raw.githack.com/mhdabdullatif/ana/master/fontawesome5.0.1-all.css" rel="stylesheet" type="text/css %}" />
+	<link rel="stylesheet" href="https://raw.githack.com/mhdabdullatif/ana/master/style.css"/>
+	<link rel="stylesheet" href="https://raw.githack.com/mhdabdullatif/ana/master/font4.0.1-awesome.css"/>
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/slick.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/categories_styles.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githack.com/mhdabdullatif/ana/master/categories_responsive.css">
+             </head>
+             <body>
+             <style>
+/*------------------
+  Header section
+---------------------*/
+
+.header-top {
+	padding: 18px 0 14px;
+}
+
+.site-logo {
+	display: inline-block;
+}
+
+.header-search-form {
+	width: 100%;
+	position: relative;
+	padding: 0 10px;
+}
+
+.header-search-form input {
+	width: 100%;
+	height: 44px;
+	font-size: 14px;
+	border-radius: 50px;
+	border: none;
+	padding: 0 19px;
+	background: #f0f0f0;
+}
+
+.header-search-form button {
+	position: absolute;
+	height: 100%;
+	right: 18px;
+	top: 0;
+	font-size: 26px;
+	color: #000;
+	border: none;
+	cursor: pointer;
+	background-color: transparent;
+}
+
+.user-panel .up-item {
+	display: inline-block;
+	font-size: 14px;
+}
+
+.user-panel .up-item i {
+	font-size: 22px;
+}
+
+.user-panel .up-item a {
+	font-size: 14px;
+	color: #000;
+}
+
+.user-panel .up-item:first-child {
+	margin-right: 29px;
+}
+
+.shopping-card {
+	display: inline-block;
+	position: relative;
+}
+
+.shopping-card span {
+	position: absolute;
+	top: -4px;
+	left: 100%;
+	height: 16px;
+	min-width: 16px;
+	color: #fff;
+	font-size: 13px;
+	background: #f51167;
+	text-align: center;
+	border-radius: 30px;
+	padding: 0 2px;
+	margin-left: -7px;
+}
+
+.main-navbar {
+	background: #282828;
+}
+
+.slicknav_menu {
+	display: none;
+}
+
+.main-menu {
+	list-style: none;
+}
+
+.main-menu li {
+	display: inline-block;
+	position: relative;
+}
+
+.main-menu li a {
+	display: inline-block;
+	font-size: 16px;
+	color: #ffffff;
+	margin-right: 50px;
+	line-height: 1;
+	padding: 17px 0;
+	position: relative;
+}
+
+.main-menu li a .new {
+	position: absolute;
+	top: -8px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #fff;
+	background: #f51167;
+	line-height: 1;
+	text-transform: uppercase;
+	left: calc(50% - 21px);
+	padding: 5px 9px 1px;
+	border-radius: 15px;
+	width: 42px;
+}
+
+.main-menu li:hover .sub-menu {
+	visibility: visible;
+	opacity: 1;
+	margin-top: 0;
+}
+
+.main-menu li:hover>a {
+	color: #f51167;
+}
+
+.main-menu .sub-menu {
+	position: absolute;
+	list-style: none;
+	width: 220px;
+	left: 0;
+	top: 100%;
+	padding: 20px 0;
+	visibility: hidden;
+	opacity: 0;
+	margin-top: 50px;
+	background: #fff;
+	z-index: 99;
+	-webkit-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	transition: all 0.4s;
+	-webkit-box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+	box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+}
+
+.main-menu .sub-menu li {
+	display: block;
+}
+
+.main-menu .sub-menu li a {
+	display: block;
+	color: #000;
+	margin-right: 0;
+	padding: 8px 20px;
+}
+
+.main-menu .sub-menu li a:hover {
+	color: #f51167;
+}
+
+.nav-switch {
+	display: none;
+}
+
+</style>
+<style>
+    @charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. 1600px
+2. 1440px
+3. 1280px
+4. 1199px
+5. 1024px
+6. 991px
+7. 959px
+8. 880px
+9. 768px
+10. 767px
+11. 539px
+12. 479px
+13. 400px
+
+******************************/
+
+/************
+1. 1600px
+************/
+
+@media only screen and (max-width: 1600px)
+{
+
+}
+
+/************
+2. 1440px
+************/
+
+@media only screen and (max-width: 1440px)
+{
+
+}
+
+/************
+3. 1380px
+************/
+
+@media only screen and (max-width: 1380px)
+{
+
+}
+
+/************
+3. 1280px
+************/
+
+@media only screen and (max-width: 1280px)
+{
+
+}
+/************
+4. 1199px
+************/
+
+
+@media only screen and (max-width: 991px)
+{
+#slide{
+position:relative;
+width:100%;
+}
+#show{
+position:relative;
+width:100%;
+left:-100px;
+top:-159px;
+}
+#work{
+position:relative;
+width:100%;
+top:50px;
+left:-20px;
+}
+}
+
+/************
+7. 959px
+************/
+
+@media only screen and (max-width: 959px)
+{
+
+}
+
+/************
+8. 880px
+************/
+
+@media only screen and (max-width: 880px)
+{
+
+}
+
+/************
+9. 768px
+************/
+
+@media only screen and (max-width: 768px)
+{
+
+}
+
+/************
+10. 1024px
+************/
+@media only screen and (max-width: 1024px)
+{
+#slide{
+position:relative;
+width:100%;
+}
+
+
+}
+#work{
+position:relative;
+width:100%;
+top:50px;
+left:-20px;
+}
+}
+</style>
+
+
+<!-- Header section -->
+	<header class="header-section">
+		<div class="header-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-2 text-center text-lg-left">
+						<!-- logo -->
+						<a href="./index.html" class="site-logo">
+							<img src="img/logo.png" alt="">
+						</a>
+					</div>
+
+					<div class="col-xl-6 col-lg-5" >
+					 <form class="header-search-form"      class="form-inline my-2 my-lg-0" action="{% url 'search:searchResult' %}" method="get">
+                        {% csrf_token %}
+							<input  name='q' required="required"  type="text" placeholder="Search ....">
+							<button><i class="flaticon-search"></i></button>
+						</form>
+					</div>
+					<div class="col-xl-4 col-lg-5">
+						<div class="user-panel">
+							<div class="up-item">
+								<i class="flaticon-profile"></i>
+                                  <div class="top_bar_user">
+         <div style="width:25px; left:-20px; top:15px; position:relative;" class="user_icon"><img src="https://www.urologistinnashik.com/wp-content/uploads/2017/08/654853-user-men-2-512.png" alt="User Character"></div>
+           {% if user.is_authenticated%}
+								<a style="position:relative; left:7px; top:-20px;" href="{% url 'profile' %}">{{ user.username }}</a> <h style="color:crimson; position:relative; left:40px;  top:-58px;">or</h> <a style="position:relative; left:60px;  top:-97px;"  href="{% url 'logout' %}">Logout </a>
+                                       {% else %}
+                              <a style="position:relative; left:7px;  top:-20px;"  href="{% url 'login' %}">Login </a> <h style="color:crimson; left:40px;  position:relative;  top:400px;">or</h> <a style="position:relative; top:-97px; left:60px; "    href="{% url 'signup' %}">Signup </a>
+  {% endif %}
+							</div>
+
+
+							<div class="cart">
+
+            {% with total_items=cart|length %}
+								<a > {% if cart|length > 0 %} </a>
+            <h style="position:relative; top:-134px; left:150px;" >ShoppingCart&Favorite</h>
+								<br>
+            <a style="color:crimson; position:relative; top:-135px; left:170px;"  href="{% url 'cart:cart_detail' %}">
+                            {{total_items|pluralize}} ${{cart.get_total_price}}
+                        </a>
+
+            {% else %}
+				<a style="position:relative; top:-134px; left:150px;"  href="{% url 'cart:cart_detail' %}">ShoppingCart&Favorite</a>
+            {% endif %}
+            {% endwith %}
+        </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav style="position:relative; top:-80px;" class="main-navbar">
+			<div  class="container">
+				<!-- menu -->
+				<ul class="main-menu">
+					<li><a href="{% url 'product_home' %}">Home</a></li>
+                      <li><a href="{% url 'product_home' %}">Turkish</a></li>
+                    	<li><a href="{% url 'shop:product_list' %}">Category</a>
+						<ul class="sub-menu">
+							<li style="left:75px;"> Dress</li>
+							<li style="left:75px;"> Skrit</li>
+							<li style="left:75px;"> Bluse</li>
+							<li style="left:75px;"> Pants</li>
+							<li style="left:75px;"> Monts</li>
+						</ul>
+					</li>
+					<li><a href="{% url 'shop:product_list' %}">Shop</a></li>
+
+					<li><a href="#">Contact</a></li>
+                    <li><a href="{% url 'cart:cart_detail' %}" >Shopping Cart</a></li>
+					<li><a href="{% url 'cart:cart_detail' %}" >Favorite</a></li>
+
+					</a></li>
+
+
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<!-- Header section end -->
+
+
+          <section style="position:relative; top:-120px;"  id="work">
+        <div  class="bd-example">
+            <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                <img  src="https://static.dorothyperkins.com/v1/static/json-0000157274_UK-HP-2019-08-22-WK51-thursday-denim2-v3jpg" class="d-block w-100" alt="...">
+                  <div class="carousel-caption d-none d-md-block">
+
+
+                  </div>
+                </div>
+
+
+                <div class="carousel-item">
+                   <img src="https://cdn.shopify.com/s/files/1/0424/4065/files/08_21_19_Slider-01_1024x1024.jpg?v=1566409329" class="d-block w-100"  alt="...">
+                    <a style="font-size:9px; position:relative; width:15%; left:450px; color:pink; top:-40px;"  href="{% url 'shop:product_list' %}"   role="button">Shop Now ></a>
+ <div class="carousel-caption d-none d-md-block">
+                    <h5>First slide label</h5>
+                  </div>
+                </div>
+
+  <div class="carousel-item">
+                   <img src="https://www.voodoovixen.co.uk/media/codazon/slideshow/resize/1920x820/picnic-in-style_1.jpg" class="d-block w-100"  alt="...">
+                    <a style="font-size:9px; position:relative; width:15%; left:450px; color:pink; top:-40px;"  href="{% url 'shop:product_list' %}"   role="button">Shop Now ></a>
+
+                  </div>
+                </div>
+
+                </div>
+
+
+          </section>
+<style>
+
+
+.feature {
+	text-align: center;
+	background: #f8f8f8;
+	height: 100%;
+}
+
+.feature:nth-child(2) {
+	background: #f51167;
+}
+
+.feature:nth-child(2) h2 {
+	color: #fff;
+}
+
+.feature .feature-inner {
+	padding: 20px 25px;
+	display: -ms-flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.feature .feature-icon {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.feature h2 {
+	font-size: 20px;
+	text-transform: uppercase;
+	position:relative;
+	display: inline-block;
+}
+
+</style>
+	<!-- Features section -->
+	<section style="position:relative; top:-120px;" class="features-section">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-4 p-0 feature">
+					<div class="feature-inner">
+						<div class="feature-icon">
+						</div>
+						<h2 >Fast Secure Payments</h2>
+					</div>
+				</div>
+				<div class="col-md-4 p-0 feature">
+					<div class="feature-inner">
+						<div class="feature-icon">
+						</div>
+						<h2>Premium Products</h2>
+					</div>
+				</div>
+				<div class="col-md-4 p-0 feature">
+					<div class="feature-inner">
+						<div class="feature-icon">
+						</div>
+						<h2>Free & fast Delivery</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Features section end -->
+
+
+
+
+
+{% load static %}
+{% block content %}
+
+
+     		<!-- Product Grid -->
+
+								<div class="product-grid">
+
+<!-- Product 1 -->
+
+
+
+
+
+							<!-- Slide 1 -->
+     			{% for prod in products %}
+									<div  class="type_sorting_btn" data-isotope-option='{ "sortBy": "price" }'></div>
+							<div style=" position:relative; top:-100px; left:180px; " class="owl-item product_slider_item">
+								<div class="product-item men">
+									<div class="product">
+										<div style=" width:380px;" class="product_image">
+			<a href="{{prod.get_absolute_url}}" >
+			<img src="{% if prod.Image %}
+								{{prod.Image.url}}
+							{% else %}
+								{% static 'img/default.png' %}
+							{% endif %}"alt="" </a>
+
+
+										</div>
+										<div class="favorite"></div>
+										<div class="product_info">
+											<h6 style="top:20px; left:-20px; position:relative;" class="product_name"><a href="{% url 'shop:product_list' %}">{{prod.name}}</a></h6>
+											<div style="top:20px; left:-20px; position:relative;" class="product_price">${{prod.price}}</div>
+
+										</div>
+
+									</div>
+								</div>
+							</div>
+																	{% endfor %}
+						</div>
+
+
+
+<br><br>
+<style>
+    a {
+    color: brown;
+    text-decoration: none;
+    background-color: color;
+}
+</style>
+
+
+
+         {% endblock content %}
+         <br><br><br><br><br> <br><br><br><br><br> <br><br><br><br><br>
+
+           <section  style="position:relative; left:-30px; top:-350px;"  id="slide">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+              <img src="https://salesandshopping.co.uk/media/d/img/Adini13072017.jpg"class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="https://www.thebeach.ae/-/media/Project/MeraasEcosystem/Beach/Shops/beach-shop-overview.jpg?h=600&w=1200&hash=6C51EAE3278D8962E90DFB05D59EC504" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="http://www.wheredoesitcomefrom.co.uk/wp-content/uploads/2017/03/o-CLOTHES-SHOPPING-facebook-1.jpg" class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section  style="position:relative; left:800px; top:-1050px; " id="show">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div  class="carousel-item active">
+                  <img src="https://cdn.shopify.com/s/files/1/1211/9048/files/wintersale2018_02_1200x628_352f7b0c-33bc-4921-9c82-ace339e8aada_1024x1024.jpg?v=1548260405"class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="http://endata.bellelily.com/afficheimg/2018-03-09/20180309zznkou.jpg" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="https://www.aljamila.com/sites/default/files/2015/03/16/261-o-shopping-bags-facebook.jpg" class="d-block w-100" alt="...">
+              </div>
+            </div>
+          </div>
+
+        </section>
+
+
+         <h1  style="left:538px; position:relative; top:-1220px; font-size:40px; color:brown" >nice outfits for you</h1>
+<style>
+    a {
+    color: brown;
+    text-decoration: none;
+    background-color: color;
+}
+</style>
+     		    		<!-- Product Grid -->
+
+								<div class="product-grid">
+
+<!-- Product 1 -->
+
+
+
+
+
+
+							<!-- Slide 1 -->
+     			{% for prod in products %}
+									<div  class="type_sorting_btn" data-isotope-option='{ "sortBy": "price" }'></div>
+							<div style=" position:relative; top:-1200px; left:180px;"  class="owl-item product_slider_item">
+								<div class="product-item men">
+									<div class="product">
+										<div style=" width:380px;" class="product_image">
+			<a href="{{prod.get_absolute_url}}" >
+			<img src="{% if prod.Image %}
+								{{prod.Image.url}}
+							{% else %}
+								{% static 'img/default.png' %}
+							{% endif %}"alt="" </a>
+
+
+										</div>
+										<div class="favorite"></div>
+										<div class="product_info">
+											<h6 style="top:20px; left:-20px; position:relative;" class="product_name"><a href="{% url 'shop:product_list' %}">{{prod.name}}</a></h6>
+											<div style="top:20px; left:-20px; position:relative;" class="product_price">${{prod.price}}</div>
+
+       <a   style="background-color:rgb(245, 125, 205); width:200px; position:relative; font-size:18px; top:60px; left:70px; "  class="btn btn-primary btn-lg btn-block" href="{{prod.get_absolute_url}}"> Add to cart </a>
+
+										</div>
+
+									</div>
+								</div>
+							</div>
+																	{% endfor %}
+						</div>
+
+
+
+
+<style>
+/* ----------------
+  Banner section
+---------------------*/
+
+.banner {
+	padding: 50px 34px 47px;
+	position: relative;
+	margin-bottom: 70px;
+}
+
+.banner .tag-new {
+	position: absolute;
+	right: 26px;
+	top: 27px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #fff;
+	background: #50e550;
+	line-height: 1;
+	text-transform: uppercase;
+	padding: 7px 16px 1px;
+	border-radius: 80px;
+}
+
+.banner span {
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 3px;
+	margin-bottom: 5px;
+	display: block;
+	position:relative;
+	top:-150px;
+}
+
+.banner h2 {
+	font-size: 48px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 10px;
+	color: #282828;
+	position:relative;
+	top:-150px;
+}
+.site-btn {
+    display: inline-block;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    min-width: 167px;
+    padding: 18px 47px 14px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    background: #f51167;
+    color: #fff;
+    line-height: normal;
+    cursor: pointer;
+    position:relative;
+	top:-150px;
+    text-align: center;
+}
+
+
+</style>
+
+	<!-- Banner section -->
+	<section style="position:relative; top:-700px;" class="banner-section">
+		<div class="container">
+			<div class="banner set-bg">
+            <img src="https://www.cervezartesana.es/pub/static/frontend/CleverSoft/novetty_cartesana/es_ES/images/home03-banner-girl.jpg"class="d-block w-100" alt="...">
+				<div class="tag-new">NEW</div>
+				<span>New Arrivals</span>
+				<h2>STRIPED SHIRTS</h2>
+				<a  href="{% url 'shop:product_list' %}" class="site-btn">SHOP NOW</a>
+			</div>
+		</div>
+	</section>
+	<!-- Banner section end  -->
+
+     <!-- Site footer -->
+<footer style="position:relative;  background-color:white; top:-600px;" class="site-footer" >
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>About</h6>
+          <p style="position:relative;  color:crimson;" class="text-justify"><i>Sweatshirt models are in LC Waikiki with new season products in 2019! </i>LCW women's cardigan, ladies sweater and poncho collection will be the first choice of winter clothes with the most beautiful models</p>
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          <h6>Categories</h6>
+          <ul class="footer-links">
+            <li><a href="{% url 'shop:product_list' %}">Derss & Skrit</a></li>
+            <li><a href="{% url 'shop:product_list' %}">Blouse & Ponts</a></li>
+            <li><a href="{% url 'shop:product_list' %}">Home Cloths</a></li>
+            <li><a href="{% url 'shop:product_list' %}">Jecket & Mont</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          <h6>Quick Links</h6>
+          <ul class="footer-links">
+            <li><a href="{% url 'product_home' %}">Contact Us</a></li>
+              <li><a href="{% url 'cart:cart_detail' %}">Cart & Favorite</a></li>
+               <li><a href="{% url 'login' %}">Login</a></li>
+               <li><a  href="{% url 'signup' %}">Signup</a></li>
+
+
+
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p style="position:relative;  color:crimson;"  class="copyright-text">Clothes &copy; 2019 All Rights Reserved by şeyma Eida
+          </p>
+
+
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <ul class="social-icons">
+            <li> <img  style="position:relative; width:50px;" src="/media/img/facebook.jpg" alt="">
+
+            <li> <img style="position:relative; right:90px; width:30px;" src="/media/img/instagram.jpeg" alt="">
+
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+
+
+
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/jQuery v3.2.1.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/Bootstrap v4.1.3.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/Stellar.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/jQuery Nice Select.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/Isotope PACKAGED v3.0.1.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/jquery.ajaxchimp.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/theme.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/jQuery v3.3.1.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/popper.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/bootstrap.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/TweenMax.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/TimelineMax.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/ScrollToPlugin.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/isotope.pkgd.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/jquery-ui.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/ScrollToPlugin.min.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/owl.carousel.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/slick.js"></script>
+	  <script src="https://raw.githack.com/mhdabdullatif/ana/master/easing.js"></script>
+      <script src="https://raw.githack.com/mhdabdullatif/ana/master/Home_customre.js"></script>
+
+</script>
+
+
+
+</body>
+</html>
